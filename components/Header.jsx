@@ -31,7 +31,7 @@ const Header = () => {
           viewport={{ once: true }}
         >
           {/* logo */}
-          <Image src={logoImg} width={60} />
+          <Image src={logoImg} alt="logo" width={60} />
         </motion.div>
         <div className="hidden md:flex">
           <Nav />

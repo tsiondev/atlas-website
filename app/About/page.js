@@ -31,7 +31,7 @@ const page = () => {
           </p>
         </div>
         <div className="flex-1 flex flex-col items-center md:items-end justify-center">
-          <Image src={about} />
+          <Image src={about} alt="illustration" />
           <h4 className="py-3 px-14 bg-green font-bold rounded-md">
             20+ years of experiance
           </h4>

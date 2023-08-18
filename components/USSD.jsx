@@ -25,7 +25,7 @@ const USSD = () => {
         </p>
       </div>
       <div className="flex-1">
-        <Image src={ussd} width={300} />
+        <Image src={ussd} width={300} alt="ussd" />
       </div>
     </div>
   );

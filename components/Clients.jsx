@@ -41,7 +41,7 @@ const Clients = () => {
       >
         {clients.map((item, index) => (
           <SwiperSlide key={index}>
-            <Image src={item} width={250} />
+            <Image alt="client" src={item} width={250} />
           </SwiperSlide>
         ))}
       </Swiper>

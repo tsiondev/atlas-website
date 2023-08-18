@@ -18,7 +18,7 @@ const ERP = () => {
           a company’s financials, supply chain, operations, commerce, reporting,
           manufacturing, and human resources activities on one platform.
         </p>
-        <Image src={erp} width={400} />
+        <Image src={erp} width={400} alt="erp" />
       </div>
     </div>
   );

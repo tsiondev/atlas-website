@@ -16,21 +16,21 @@ const Testimonial = () => {
             Lorem ipsum dolor sit amet, Lorem ipsum dolor sit amet, consectetur
             adipisicing elit. At cumque nemo modi?
           </p>
-          <Image src={nib} width={200} />
+          <Image alt="client" src={nib} width={200} />
         </div>
         <div className=" flex-1 border-l-4 border-blue-400 pl-4">
           <p className="max-w-xs md:max-w-full">
             Lorem ipsum dolor sit amet, Lorem ipsum dolor sit amet, consectetur
             adipisicing elit. At cumque nemo modi?
           </p>
-          <Image src={nib} width={200} />
+          <Image alt="client" src={nib} width={200} />
         </div>
         <div className=" flex-1 border-l-4 border-blue-400 pl-4 hidden lg:flex lg:flex-col ">
           <p className="max-w-xs md:max-w-full">
             Lorem ipsum dolor sit amet, Lorem ipsum dolor sit amet, consectetur
             adipisicing elit. At cumque nemo modi?
           </p>
-          <Image src={nib} width={200} />
+          <Image alt="client" src={nib} width={200} />
         </div>
       </div>
     </section>

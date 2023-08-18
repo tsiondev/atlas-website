@@ -7,7 +7,7 @@ const Footer = () => {
     <footer className="max-w-[1100px] mx-auto mb-10 px-12">
       <div className=" flex md:flex-row justify-between flex-col gap-y-10  md:gap-y-0 items-start">
         <div className="flex-1 ">
-          <Image src={logo} width={100} />
+          <Image alt="logo" src={logo} width={100} />
         </div>
         <div className="flex-1 ">
           <form className="flex flex-col items-start gap-y-3" action="">

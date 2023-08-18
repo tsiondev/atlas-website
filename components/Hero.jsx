@@ -47,7 +47,11 @@ const Hero = () => {
           viewport={{ once: true }}
           className="flex-1"
         >
-          <Image src={image} width={800} />
+          <Image
+            src={image}
+            width={800}
+            alt="server and information architecture"
+          />
         </motion.div>
       </div>
     </section>

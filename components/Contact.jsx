@@ -4,8 +4,8 @@ const Contact = () => {
       <div className="flex flex-col md:flex-row space-x-0 md:space-x-10 space-y-10 md:space-y-0">
         <div className="flex-1">
           <h1 className="text-3xl lg:text-3xl font-roboto font-bold text-lightgray">
-            We're the one-stop shop for all your service needs. Come to us with
-            anything, and we'll take care of it
+            We&apos;re the one-stop shop for all your service needs. Come to us
+            with anything, and we&apos;ll take care of it
           </h1>
         </div>
         <div className="flex-1 flex flex-col gap-y-8">

@@ -16,19 +16,19 @@ const Partners = () => {
         </div>
         <div className="grid md:grid-cols-5 grid-cols-2 gap-10 justify-between">
           <div>
-            <Image src={lenovo} height={50} />
+            <Image alt="partners" src={lenovo} height={50} />
           </div>
           <div>
-            <Image src={redhat} height={50} />
+            <Image alt="partners" src={redhat} height={50} />
           </div>
           <div>
-            <Image src={oracle} height={50} />
+            <Image alt="partners" src={oracle} height={50} />
           </div>
           <div>
-            <Image src={mahindra} height={50} />
+            <Image alt="partners" src={mahindra} height={50} />
           </div>
           <div>
-            <Image src={ibm} height={50} />
+            <Image alt="partners" src={ibm} height={50} />
           </div>
         </div>
       </div>

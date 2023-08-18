@@ -5,7 +5,7 @@ import principles from "@/Assets/images/about/Principles.png";
 const Principles = () => {
   return (
     <section className="flex flex-col items-start gap-y-3 mb-20">
-      <Image src={principles} width={100} />
+      <Image src={principles} width={100} alt="principles" />
       <h3 className="text-2xl font-bold text-green">Our core principles</h3>
       <ul className="flex flex-col gap-y-3  text-justify max-w-md list-disc marker:text-green marker:text-xl">
         <li>

@@ -16,7 +16,7 @@ const HRMS = () => {
           management, employee engagement, and employee attendance, HRMS
           software helps HR professionals manage the modern workforce.
         </p>
-        <Image src={hrms} width={400} />
+        <Image src={hrms} width={400} alt="hrms" />
       </div>
     </div>
   );

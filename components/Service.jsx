@@ -82,9 +82,9 @@ const Services = () => {
             </h3>
             <p>
               ACTs hosted services is your go to solution if you are looking to
-              Integrate your solutions on a secure server, whether you're an
-              individual who's looking for a server space or whether you're an
-              enterprise that wants to add more computing power.
+              Integrate your solutions on a secure server, whether you&aposr;e
+              an individual who&aposr;s looking for a server space or whether
+              you&aposr;re an enterprise that wants to add more computing power.
             </p>
           </div>
         </div>
