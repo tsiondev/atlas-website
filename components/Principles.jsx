@@ -1,6 +1,6 @@
 import React from "react";
 import Image from "next/image";
-import principles from "@/Assets/images/about/Principles.png";
+import principles from "@/Assets/images/about/principles.png";
 
 const Principles = () => {
   return (
