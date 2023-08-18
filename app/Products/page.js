@@ -9,11 +9,11 @@ import { BiChevronsRight } from "react-icons/bi";
 
 const page = () => {
   const [mainContent, setMainContent] = useState("Home");
-  const [isComponentVisible, setComponentVisible] = useState(false);
+  // const [isComponentVisible, setComponentVisible] = useState(false);
 
-  useEffect(() => {
-    setComponentVisible(true);
-  }, []);
+  // useEffect(() => {
+  //   setComponentVisible(true);
+  // }, []);
 
   const handleClick = (content) => {
     setMainContent(content);
